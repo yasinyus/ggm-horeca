@@ -1,0 +1,19 @@
+[27-Mar-2024 09:04:58 Asia/Jakarta] PHP Warning:  require(/home/kuay6361/public_html/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/kuay6361/public_html/public/index.php on line 34
+[27-Mar-2024 09:04:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kuay6361/public_html/public/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kuay6361/public_html/public/index.php:34
+Stack trace:
+#0 /home/kuay6361/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/kuay6361/public_html/public/index.php on line 34
+[27-Mar-2024 09:05:15 Asia/Jakarta] PHP Warning:  require(/home/kuay6361/public_html/public../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kuay6361/public_html/public/index.php on line 34
+[27-Mar-2024 09:05:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kuay6361/public_html/public../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kuay6361/public_html/public/index.php:34
+Stack trace:
+#0 /home/kuay6361/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/kuay6361/public_html/public/index.php on line 34
+[27-Mar-2024 09:05:16 Asia/Jakarta] PHP Warning:  require(/home/kuay6361/public_html/public../vendor/autoload.php): Failed to open stream: No such file or directory in /home/kuay6361/public_html/public/index.php on line 34
+[27-Mar-2024 09:05:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kuay6361/public_html/public../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kuay6361/public_html/public/index.php:34
+Stack trace:
+#0 /home/kuay6361/public_html/index.php(21): require_once()
+#1 {main}
+  thrown in /home/kuay6361/public_html/public/index.php on line 34
+[01-May-2024 08:22:37 Asia/Jakarta] PHP Fatal error:  Can't use method return value in write context in /home/kuay6361/public_html/storage/framework/views/63fdb4419fe44664f509fd88079aa4ad56794fe8.php on line 156
